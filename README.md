@@ -157,7 +157,8 @@ End the HTML structure.
 ```
 
 ## OUTPUT:
-![image](https://github.com/anbuselvan1519/ODD23-24-WT-JavaScript/assets/139841744/c0b041ef-835e-4da8-8533-5a872a99a5e0)
+![image](https://github.com/Srivatsan0405/ODD23-24-WT-JavaScript/assets/139841630/ab5dcc40-31df-4e57-96c9-804c9868abd1)
+
 
 ## RESULT:
 Thus the java code executed to compute the factorial of a given number without recursion.
@@ -242,8 +243,7 @@ End the HTML structure.
 ```
 
 ## OUTPUT:
-![image](https://github.com/anbuselvan1519/ODD23-24-WT-JavaScript/assets/139841744/bad71668-370b-46cd-8d82-55231dd43baf)
-
+![image](https://github.com/Srivatsan0405/ODD23-24-WT-JavaScript/assets/139841630/f00c00ef-e54f-4435-a520-23d28257d586)
 ## RESULT:
 Thus the java code executed to construct a JavaScript code to generate ‘N’ prime numbers.
 
@@ -340,7 +340,8 @@ End the HTML structure.
 ```
 
 ## OUTPUT:
-![image](https://github.com/anbuselvan1519/ODD23-24-WT-JavaScript/assets/139841744/a27e85b9-626c-4ce8-ba76-eed3e9e1e889)
+![image](https://github.com/Srivatsan0405/ODD23-24-WT-JavaScript/assets/139841630/6b193a21-8b86-4a7f-bef5-a45519860e55)
+
 
 ## RESULT:
 Thus the java code executed to implement a simple calculator.
@@ -439,7 +440,7 @@ Simple Text Editor using JavaScript
 </html>
 ```
 ## OUTPUT:
-![image](https://github.com/anbuselvan1519/ODD23-24-WT-JavaScript/assets/139841744/5dd38af7-4a41-43bf-95c3-16a28a53a081)
+![image](https://github.com/Srivatsan0405/ODD23-24-WT-JavaScript/assets/139841630/3151b817-07f5-4f4e-9e8a-14766d3356b8)
 
 
 ## RESULT:
@@ -556,7 +557,8 @@ End the HTML structure.
 ```
 
 ## OUTPUT:
-![image](https://github.com/anbuselvan1519/ODD23-24-WT-JavaScript/assets/139841744/ffa35b33-b8ba-4d93-a6a2-1e1626f8e8bb)
+![image](https://github.com/Srivatsan0405/ODD23-24-WT-JavaScript/assets/139841630/cbe1c45a-d62f-46c7-91ee-5c8458ace1c6)
+
 
 ## RESULT:
 Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
