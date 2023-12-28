@@ -80,7 +80,7 @@ End the HTML structure
 ```
 
 ## OUTPUT:
-![image](https://github.com/anbuselvan1519/ODD23-24-WT-JavaScript/assets/139841744/bf25aeb3-cd32-4f9f-86bf-48a78b555d9d)
+![image](https://github.com/Srivatsan0405/ODD23-24-WT-JavaScript/assets/139841630/bb9ac722-3cc2-49fd-b5d7-092b5ee1475e)
 
 ## RESULT:
 Thus the java code executed to calculate the electricity bill.
