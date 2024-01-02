@@ -1,4 +1,6 @@
 # ODD23-24-WT-JavaScript
+### NAME:SRIVATSAN V
+### REFERENCE NO:23000970
 ## Exp-09:(i)
 ## AIM:
 To create a form with java script code to calculate electricity bill.
